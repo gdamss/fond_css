@@ -1,0 +1,34 @@
+body {
+  background: #5c94fc;
+  text-align: center;
+}
+#contour {
+  width: 50%;
+  height: 615px;
+  border: 5px black solid;
+}
+.bloc {
+  height: 150px;
+}
+#b1 {
+  width: 25%;
+  border-right: 5px black solid;
+  background: #4976c9;
+}
+#b2 {
+  width: 50%;
+  border-top: 5px black solid;
+  border-right: 5px black solid;
+  background: #375897;
+}
+#b3 {
+  width: 75%;
+  border-top: 5px black solid;
+  border-right: 5px black solid;
+  background: #243b64;
+}
+#b4 {
+  width: 100%;
+  border-top: 5px black solid;
+  background: #121d32;
+}
